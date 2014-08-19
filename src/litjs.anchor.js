@@ -1,3 +1,10 @@
+/*___________________________________*\
+ |                                   |
+ |  Author : Lychie Fan              |
+ |  E-Mail : lychie@yeah.net         |
+ |  https://github.com/lychie/litjs  |
+ |___________________________________|
+\*                                   */
 var Litjs = (function($){
 	$.Anchor = {
 		set : function(){

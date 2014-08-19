@@ -1,3 +1,10 @@
+/*___________________________________*\
+ |                                   |
+ |  Author : Lychie Fan              |
+ |  E-Mail : lychie@yeah.net         |
+ |  https://github.com/lychie/litjs  |
+ |___________________________________|
+\*                                   */
 var Litjs = (function($){
 	$.Cookie = {
 		add : function(name, value, expire_minutes){
